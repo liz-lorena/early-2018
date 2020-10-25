@@ -375,6 +375,8 @@ a:hover {
 
 #footer p {
     font-size: 12pt;
+    margin:0px;
+    padding: 15px 0;
 }
 
 #social {
