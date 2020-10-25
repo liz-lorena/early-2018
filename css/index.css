@@ -370,12 +370,9 @@ a:hover {
 #footer {
     background-color: white;
     color: gray;
-    margin-top: 2%;
-    margin-bottom: 2%;
 }
 
 #footer p {
-    margin-top: 12px;
     font-size: 12pt;
 }
 
