@@ -358,10 +358,10 @@ a:hover {
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
+    height:100vh;
 }
 
 #sideimage {
-    height: 650px;
     width: 100%;
     background-color: none;
     border: 0px solid white;
