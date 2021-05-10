@@ -1,4 +1,4 @@
-# 2018
+# early-2018
 This was my third portfolio site. I used it from late 2017 to early 2018. It was my first successful attempt at using Jekyll.
 
 <img src="https://lizberberena.com/img/thirdportfolio.png" alt="Screenshot of Third Portfolio" class="img-fluid"/>
