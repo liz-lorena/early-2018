@@ -14,16 +14,3 @@ This was my third portfolio site. I used it from late 2017 to early 2018. It was
 <img src="https://lizberberena.com/img/TAGS.gif" alt="Gif of Working Tags on Third Portfolio" class="img-fluid"/>
 
 <p class="caption">Freaking out because I figured out tags</p>
-
-
-### All Versions of My Portfolio Website
-
-- [2021](https://github.com/lizberberena/lizberberena.github.io)
-- [2020](https://github.com/lizberberena/2020)
-- [2019](https://github.com/lizberberena/2019)
-- [Mid-2018](https://github.com/lizberberena/mid-2018)
-- [Early 2018](https://github.com/lizberberena/early-2018)
-- [Late 2017](https://github.com/lizberberena/late-2017)
-- [Mid-2017](https://github.com/lizberberena/mid-2017)
-
-Click <a href="https://drive.google.com/drive/folders/1qI0wfO3N7_VMUbWJEn4bfNL5P04Ix1PS?usp=sharing" target="_blank">here</a> to be taken to my Google Drive folder with all my games that are too large to upload here on Github. :)
