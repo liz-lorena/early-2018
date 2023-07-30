@@ -261,7 +261,7 @@ button#dropdownMenuButton.btn.btn-secondary:active .fa-bars {
     margin-top: -3px;
     background-color: white;
     background-repeat: no-repeat;
-    background-image: url('/img/sitewideimg.jpg');
+    background-image: url('/img/sitewideimg.png');
     background-position: center;
     background-size: 0px;
 }
