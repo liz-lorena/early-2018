@@ -78,7 +78,7 @@ blockquote {
 }
 
 #postbody a {
-    color: #B1B4DA;
+    color: #4C785D;
     -webkit-transition: all 200ms linear;
     transition: all 200ms linear;
 }
@@ -124,7 +124,7 @@ button {
     border-radius: 5px;
     font-size: 12pt;
     color: white;
-    background-color: #B1B4DA;
+    background-color: #4C785D;
     opacity: .5;
     -webkit-transition: all 100ms linear;
     transition: all 100ms linear;
@@ -139,7 +139,7 @@ button:hover {
 }
 
 .blogfa {
-    color: #B1B4DA;
+    color: #4C785D;
     opacity: .5;
     -webkit-transition: all 100ms linear;
     transition: all 100ms linear;
@@ -235,7 +235,7 @@ button#dropdownMenuButton.btn.btn-secondary:active .fa-bars {
 .fa-bars {
     margin-top: 3%;
     float: right;
-    color: #B1B4DA;
+    color: #4C785D;
 }
 
 .dropdown-menu {
@@ -252,7 +252,7 @@ button#dropdownMenuButton.btn.btn-secondary:active .fa-bars {
 }
 
 .dropdown-menu a:active {
-    background-color: #B1B4DA;
+    background-color: #4C785D;
 }
 
 #logo {
@@ -261,7 +261,7 @@ button#dropdownMenuButton.btn.btn-secondary:active .fa-bars {
     margin-top: -3px;
     background-color: white;
     background-repeat: no-repeat;
-    background-image: url('/img/sitewideimg.png');
+    background-image: url('https://irisoflys.com/img/sitewideimg.png');
     background-position: center;
     background-size: 0px;
 }
@@ -328,7 +328,7 @@ a:hover {
 
 #home a,
 #postlist a {
-    color: #B1B4DA;
+    color: #4C785D;
     -webkit-transition: all 200ms linear;
     transition: all 200ms linear;
 }
@@ -339,7 +339,7 @@ a:hover {
 }
 
 #work a {
-    color: #B1B4DA;
+    color: #4C785D;
 }
 
 #work a:hover {
@@ -349,12 +349,12 @@ a:hover {
 .project:hover {
     cursor: pointer;
     opacity: .8;
-    text-decoration: #B1B4DA underline;
+    text-decoration: #4C785D underline;
 }
 
 #sidedisplay {
     background-color: white;
-    background-image: url('/img/flowers.jpg');
+    background-image: url('https://irisoflys.com/img/flowers.jpg');
     background-repeat: no-repeat;
     background-position: bottom center;
     background-size: cover;
@@ -384,7 +384,7 @@ a:hover {
 }
 
 #social .fa {
-    color: #B1B4DA;
+    color: #4C785D;
     opacity: .5;
     -webkit-transition: all 100ms linear;
     transition: all 100ms linear;
