@@ -7,8 +7,6 @@ This was my third portfolio site. I used it from late 2017 to early 2018. It was
 
 <p>I was really excited when I made this site, so here are some GIFs of me showing it off in its first complete look. I only picked that shade of green because it matched the foliage in that photo, okay?</p>
 
-<img src="https://irisoflys.com/img/newportfoliositemobile.gif" alt="Gif of Third Portfolio on Mobile" class="img-fluid"/>
-
 <p class="caption">The work page made me especially happy.</p>
 
 <img src="https://irisoflys.com/img/TAGS.gif" alt="Gif of Working Tags on Third Portfolio" class="img-fluid"/>
