@@ -358,7 +358,10 @@ a:hover {
     background-repeat: no-repeat;
     background-position: bottom center;
     background-size: cover;
-    height:100vh;
+    height:calc(100vh - 34px);
+    height: -o-calc(100vh - 34px); /* opera */
+    height: -webkit-calc(100vh - 34px); /* google, safari */
+    height: -moz-calc(100vh - 34px); /* firefox */
 }
 
 #sideimage {
